@@ -1,0 +1,10 @@
+Package: winnr
+Title: An R Package For True Winners
+Version: 0.0.0.9000
+Authors@R: person("Hajk-Georg", "Drost", email = "hajkdrost@googlemail.com", role = c("aut", "cre"))
+Description: This package is dedicated to those who make a true contribution to society by sharing their skills, code, and idealism openly with others.
+Depends: R (>= 2.0.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
