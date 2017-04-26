@@ -11,7 +11,6 @@ This package is dedicated to those who make a true contribution to society by sh
 ```r
 # install.packages("devtools")
 # install the current version of winnr
-library(devtools)
-install_github("HajkD/winnr")
+devtools::install_github("HajkD/winnr")
 ```
 
