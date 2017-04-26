@@ -4,7 +4,10 @@
 \alias{list_winners}
 \title{Winner Retrieval}
 \usage{
-list_winners()
+list_winners(language = "R")
+}
+\arguments{
+\item{language}{programming language for which winners shall be retrieved.}
 }
 \description{
 Retrieval of winner names.
